@@ -1,0 +1,12 @@
+C:\Users\Korisnik\Source\Repos\lovrosverko\TurnirAsistent\TurnirModel\AsistentGUI\bin\Debug\AsistentGUI.exe.config
+C:\Users\Korisnik\Source\Repos\lovrosverko\TurnirAsistent\TurnirModel\AsistentGUI\bin\Debug\AsistentGUI.exe
+C:\Users\Korisnik\Source\Repos\lovrosverko\TurnirAsistent\TurnirModel\AsistentGUI\bin\Debug\AsistentGUI.pdb
+C:\Users\Korisnik\Source\Repos\lovrosverko\TurnirAsistent\TurnirModel\AsistentGUI\obj\Debug\AsistentGUI.csprojAssemblyReference.cache
+C:\Users\Korisnik\Source\Repos\lovrosverko\TurnirAsistent\TurnirModel\AsistentGUI\obj\Debug\AsistentGUI.DodavanjeEkipe.resources
+C:\Users\Korisnik\Source\Repos\lovrosverko\TurnirAsistent\TurnirModel\AsistentGUI\obj\Debug\AsistentGUI.KreiranjeTurnira.resources
+C:\Users\Korisnik\Source\Repos\lovrosverko\TurnirAsistent\TurnirModel\AsistentGUI\obj\Debug\AsistentGUI.PregledTurnira.resources
+C:\Users\Korisnik\Source\Repos\lovrosverko\TurnirAsistent\TurnirModel\AsistentGUI\obj\Debug\AsistentGUI.Properties.Resources.resources
+C:\Users\Korisnik\Source\Repos\lovrosverko\TurnirAsistent\TurnirModel\AsistentGUI\obj\Debug\AsistentGUI.TurnirAsistent.resources
+C:\Users\Korisnik\Source\Repos\lovrosverko\TurnirAsistent\TurnirModel\AsistentGUI\obj\Debug\AsistentGUI.csproj.GenerateResource.cache
+C:\Users\Korisnik\Source\Repos\lovrosverko\TurnirAsistent\TurnirModel\AsistentGUI\obj\Debug\AsistentGUI.exe
+C:\Users\Korisnik\Source\Repos\lovrosverko\TurnirAsistent\TurnirModel\AsistentGUI\obj\Debug\AsistentGUI.pdb
